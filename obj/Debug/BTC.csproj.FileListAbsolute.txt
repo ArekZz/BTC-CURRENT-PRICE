@@ -1,0 +1,12 @@
+C:\Users\Arek\source\repos\BTC\BTC\bin\Debug\BTC.exe.config
+C:\Users\Arek\source\repos\BTC\BTC\bin\Debug\BTC.exe
+C:\Users\Arek\source\repos\BTC\BTC\bin\Debug\BTC.pdb
+C:\Users\Arek\source\repos\BTC\BTC\obj\Debug\BTC.Form1.resources
+C:\Users\Arek\source\repos\BTC\BTC\obj\Debug\BTC.Properties.Resources.resources
+C:\Users\Arek\source\repos\BTC\BTC\obj\Debug\BTC.csproj.GenerateResource.cache
+C:\Users\Arek\source\repos\BTC\BTC\obj\Debug\BTC.csproj.CoreCompileInputs.cache
+C:\Users\Arek\source\repos\BTC\BTC\obj\Debug\BTC.exe
+C:\Users\Arek\source\repos\BTC\BTC\obj\Debug\BTC.pdb
+C:\Users\Arek\source\repos\BTC\BTC\bin\Debug\Leaf.xNet.dll
+C:\Users\Arek\source\repos\BTC\BTC\bin\Debug\Leaf.xNet.xml
+C:\Users\Arek\source\repos\BTC\BTC\obj\Debug\BTC.csproj.CopyComplete
